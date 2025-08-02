@@ -1,0 +1,13 @@
+{
+  "accounts_file": "assets/customers.json",
+  "tls_url": "https://visas-fr.tlscontact.com/",
+  "center": "El-Sheikh Zayed",
+  "check_interval_min": 15,
+  "check_interval_max": 25,
+  "max_retries": 4,
+  "max_attempts_per_profile": 10,
+  "profile_expiry_hours": 24,
+  "max_procs": 3,
+  "telegram_token": "7856136880:AAH4v3HUj0KRiEAPwVruN7rwZxcUEQiDihw",
+  "telegram_chat_id": "7252349188"
+}
